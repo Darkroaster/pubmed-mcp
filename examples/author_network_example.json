@@ -1,0 +1,7 @@
+{
+  "action": "author_network",
+  "params": {
+    "id_list": ["34567890", "34567891", "34567892", "34567893", "34567894"],
+    "min_collaborations": 2
+  }
+}

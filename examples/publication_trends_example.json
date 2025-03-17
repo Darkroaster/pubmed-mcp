@@ -1,0 +1,8 @@
+{
+  "action": "publication_trends",
+  "params": {
+    "query": "artificial intelligence medicine",
+    "start_year": 2010,
+    "end_year": 2023
+  }
+}

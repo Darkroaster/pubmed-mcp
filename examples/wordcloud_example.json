@@ -1,0 +1,11 @@
+{
+  "action": "generate_wordcloud",
+  "params": {
+    "text": "这是一段示例文本，用于生成词云图。人工智能、机器学习、深度学习、自然语言处理、计算机视觉等技术在医学领域的应用越来越广泛。医学人工智能可以辅助医生进行疾病诊断、预测疾病风险、分析医学图像、推荐个性化治疗方案等。",
+    "title": "医学人工智能",
+    "max_words": 50,
+    "chinese": true,
+    "background_color": "white",
+    "colormap": "viridis"
+  }
+}

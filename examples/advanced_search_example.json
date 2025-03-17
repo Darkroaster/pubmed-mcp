@@ -1,0 +1,15 @@
+{
+  "action": "advanced_search",
+  "params": {
+    "search_params": {
+      "author": "Zhang Y",
+      "title": "cancer",
+      "journal": "Nature",
+      "year": "2022",
+      "abstract": "therapy",
+      "mesh_terms": "Immunotherapy",
+      "max_results": 30,
+      "sort": "relevance"
+    }
+  }
+}
