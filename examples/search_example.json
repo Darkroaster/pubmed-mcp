@@ -1,0 +1,10 @@
+{
+  "action": "search",
+  "params": {
+    "query": "cancer immunotherapy",
+    "max_results": 20,
+    "sort": "relevance",
+    "min_date": "2020/01/01",
+    "max_date": "2023/12/31"
+  }
+}
